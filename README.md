@@ -15,7 +15,7 @@ show dbs
 **Switch and Create DB**  
 use mycustomers  
   
-**Show current db** 
+**Show current db**  
 db  
   
 **Create User**  
